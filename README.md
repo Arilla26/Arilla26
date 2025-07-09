@@ -127,19 +127,32 @@ const arilla26 = {
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🎓 Electronics Engineering] --> B[💻 Embedded Programming]
-    B --> C[🤖 AI Integration]
-    C --> D[🌐 IoT Solutions]
-    D --> E[🚀 Innovation]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-```
+### 🚀 Learning Journey
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🎓-Electronics%20Engineering-ff6b6b?style=for-the-badge" />
+<br><sub><b>Foundation</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/💻-Embedded%20Programming-4ecdc4?style=for-the-badge" />
+<br><sub><b>Core Skills</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🤖-AI%20Integration-45b7d1?style=for-the-badge" />
+<br><sub><b>Advanced</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🌐-IoT%20Solutions-96ceb4?style=for-the-badge" />
+<br><sub><b>Application</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🚀-Innovation-feca57?style=for-the-badge" />
+<br><sub><b>Future</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
