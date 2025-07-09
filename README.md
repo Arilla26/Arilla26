@@ -164,20 +164,6 @@ const arilla26 = {
 
 ---
 
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Date | 🔗 Link |
-|:---|:---:|:---:|
-| 🥇 Best Embedded Project | 2024 | [Certificate](#) |
-| 🎓 STM32 Certified Developer | 2023 | [Verify](#) |
-| 🤖 AI Programming Specialist | 2023 | [Badge](#) |
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
