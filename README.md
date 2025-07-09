@@ -167,7 +167,21 @@ const arilla26 = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arilla26/Arilla26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arilla26&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arilla26&theme=github_dark" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arilla26&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arilla26&theme=github_dark" alt="Top Languages by Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arilla26&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arilla26&theme=github_dark&utcOffset=7" alt="Productive Time" />
 </div>
 
 ---
