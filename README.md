@@ -1,208 +1,73 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Xin chào, mình là Arilla26!
+# Hi there, I'm Le Chanh Nguyen (Arilla26) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Electronics+Engineering+Student;Embedded+Systems+Developer;AI+%26+Programming+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;RTL+Design+%26+FPGA+Enthusiast;Zynq+UltraScale%2B+Developer;Computer+Architecture+Explorer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arilla26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Arilla26?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nguyen.le.hcmut@hcmut.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 🚀 Về mình
+## 🚀 About Me
 
-```typescript
-const arilla26 = {
-    pronouns: "he" | "him",
-    code: ["C", "C++", "Python", "JavaScript"],
-    askMeAbout: ["embedded systems", "AI", "electronics", "IoT"],
-    technologies: {
-        microcontrollers: ["STM32", "Arduino", "ESP32"],
-        tools: ["STM32CubeIDE", "Arduino IDE", "VS Code"],
-        frameworks: ["Pygame", "TensorFlow", "OpenCV"],
-        databases: ["MySQL", "SQLite"],
-        misc: ["Git", "Linux", "PCB Design"]
-    },
-    currentFocus: "Developing intelligent embedded systems",
-    funFact: "I debug hardware and software with equal enthusiasm!"
-};
-```
+I am a final-year **Computer Engineering** student at **Ho Chi Minh City University of Technology (HCMUT)** with a strong passion for **Digital Logic Design** and **Hardware Acceleration**.
+
+My current focus is on bridging the gap between AI algorithms and Hardware implementation using **FPGA** and **System-on-Chip (SoC)** architectures.
+
+- 🔭 I’m currently working on **KV Cache Management for LLM Acceleration on Zynq UltraScale+**.
+- 🌱 I’m deeply exploring **Computer Architecture (RISC-V)**, **AXI4 Protocols**, and **High-Speed Interfaces**.
+- ⚡ Fun fact: I enjoy optimizing Verilog code to save every single LUT and Flip-Flop!
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔧 Hardware & Embedded
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-### 🧠 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **HDL Languages** | ![Verilog](https://img.shields.io/badge/Verilog-B02030?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=flat-square) |
+| **Software** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **FPGA / Hardware** | ![Xilinx](https://img.shields.io/badge/Xilinx-Vivado-red?style=flat-square) ![Zynq](https://img.shields.io/badge/Zynq-UltraScale%2B-blue?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-Arch-black?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![ModelSim](https://img.shields.io/badge/ModelSim-Verification-green?style=flat-square) ![LaTeX](https://img.shields.io/badge/LaTeX-Documentation-008080?style=flat-square) |
 
 </div>
 
 ---
 
-## 🏆 Dự án nổi bật
+## 🏆 Featured Projects
 
-<div align="center">
+### 🚀 [KV Cache Manager for LLM on FPGA](https://github.com/Arilla26/Repo-KV-Cache) (Ongoing)
+> **Capstone Project | Zynq UltraScale+ | Verilog**
+> * Hardware accelerator to optimize Key-Value Cache for Large Language Models.
+> * Features: **Tree-PLRU** replacement policy, **Base-Delta Compression** engine.
+> * Interface: **AXI4 High-Performance (HP)** to DDR4 Memory.
 
-### ♟️ Chess AI
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Framework-Pygame-red?style=flat-square" />
+### 💻 [32-bit Single-Cycle RISC-V Processor](https://github.com/Arilla26/Repo-RISCV)
+> **Course Project | SystemVerilog**
+> * A complete 32-bit processor implementing **RISC-V RV32I ISA**.
+> * Architecture: 5-stage conceptual datapath (IF, ID, EX, MEM, WB).
+> * Verified with Assembly test suite for Arithmetic, Logic, and Branch instructions.
 
-> 🧠 AI chơi cờ vua thông minh sử dụng thuật toán Minimax và Alpha-Beta Pruning
-> 
-> **Tính năng:** Giao diện đồ họa, nhiều mức độ khó, phân tích nước đi
-> 
-> [🔗 Xem dự án](https://github.com/Arilla26/Chess_AI) | [📖 Documentation](https://github.com/Arilla26/Chess_AI#readme)
-
----
-
-### 🌐 IOT Lab
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Platform-STM32-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Hardware-Arduino-orange?style=flat-square" />
-
-> 🔌 Bộ sưu tập các dự án IoT và hệ thống nhúng
-> 
-> **Nội dung:** Cảm biến, giao tiếp không dây, xử lý tín hiệu số
-> 
-> [🔗 Xem dự án](https://github.com/Arilla26/IOT_Lab) | [📚 Labs](https://github.com/Arilla26/IOT_Lab#labs)
-
----
-
-### 🕹️ TouchScreen Interface
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Platform-STM32-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Interface-Touch-purple?style=flat-square" />
-
-> 📱 Giao diện cảm ứng tương tác trên vi điều khiển STM32
-> 
-> **Đặc điểm:** Multi-touch, responsive UI, real-time feedback
-> 
-> [🔗 Xem dự án](https://github.com/Arilla26/Lab7_TouchScreen) | [🎥 Demo](https://github.com/Arilla26/Lab7_TouchScreen#demo)
-
-</div>
+### ⏱️ [Digital Sports Watch on FPGA](https://github.com/Arilla26/fpga-digital-watch)
+> **Course Project | Verilog**
+> * Multifunctional watch (Stopwatch, Timer, Alarm) with **FSM-based control**.
+> * Drivers: 16x2 LCD Interface, 7-Segment LED Multiplexing.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arilla26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arilla26&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arilla26&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arilla26&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-### 🚀 Learning Journey
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎓-Electronics%20Engineering-ff6b6b?style=for-the-badge" />
-<br><sub><b>Foundation</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/💻-Embedded%20Programming-4ecdc4?style=for-the-badge" />
-<br><sub><b>Core Skills</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🤖-AI%20Integration-45b7d1?style=for-the-badge" />
-<br><sub><b>Advanced</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🌐-IoT%20Solutions-96ceb4?style=for-the-badge" />
-<br><sub><b>Application</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🚀-Innovation-feca57?style=for-the-badge" />
-<br><sub><b>Future</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-- 🔭 Hiện tại đang nghiên cứu về **AI trên hệ thống nhúng**
-- 🌱 Đang học **Machine Learning** và **Computer Vision**
-- 👯 Tìm kiếm cơ hội hợp tác trong các dự án **IoT** và **Embedded AI**
-- 💬 Hỏi mình về **STM32**, **Arduino**, **Python**, hoặc **AI algorithms**
-- ⚡ Fun fact: **Tôi có thể debug cả phần cứng và phần mềm!**
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arilla26&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arilla26&theme=github_dark" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arilla26&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arilla26&theme=github_dark" alt="Top Languages by Commits" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arilla26&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arilla26&theme=github_dark&utcOffset=7" alt="Productive Time" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arilla26)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arilla26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arilla26&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,jupyter%20notebook"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Arilla26">Arilla26</a> with ❤️</i>
+  <i>"Hardware eventually fails. Software eventually works."</i>
 </div>
