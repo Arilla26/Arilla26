@@ -40,19 +40,19 @@ My current focus is on bridging the gap between AI algorithms and Hardware imple
 
 ## 🏆 Featured Projects
 
-### 🚀 [KV Cache Manager for LLM on FPGA](https://github.com/Arilla26/Repo-KV-Cache) (Ongoing)
+### 🚀 [KV Cache Manager for LLM on FPGA](https://github.com/Arilla26/KV-Cache-Controller-with-PLRU) (Ongoing)
 > **Capstone Project | Zynq UltraScale+ | Verilog**
 > * Hardware accelerator to optimize Key-Value Cache for Large Language Models.
 > * Features: **Tree-PLRU** replacement policy, **Base-Delta Compression** engine.
 > * Interface: **AXI4 High-Performance (HP)** to DDR4 Memory.
 
-### 💻 [32-bit Single-Cycle RISC-V Processor](https://github.com/Arilla26/Repo-RISCV)
+### 💻 [32-bit Single-Cycle RISC-V Processor](https://github.com/Arilla26/Single-Cycle-RISC-V-Processor)
 > **Course Project | SystemVerilog**
 > * A complete 32-bit processor implementing **RISC-V RV32I ISA**.
 > * Architecture: 5-stage conceptual datapath (IF, ID, EX, MEM, WB).
 > * Verified with Assembly test suite for Arithmetic, Logic, and Branch instructions.
 
-### ⏱️ [Digital Sports Watch on FPGA](https://github.com/Arilla26/fpga-digital-watch)
+### ⏱️ [Digital Sports Watch on FPGA](https://github.com/Arilla26/Digital-Sports-Watch)
 > **Course Project | Verilog**
 > * Multifunctional watch (Stopwatch, Timer, Alarm) with **FSM-based control**.
 > * Drivers: 16x2 LCD Interface, 7-Segment LED Multiplexing.
