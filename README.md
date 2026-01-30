@@ -63,7 +63,7 @@ My current focus is on bridging the gap between AI algorithms and Hardware imple
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arilla26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arilla26&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arilla26&layout=compact&langs_count=8&theme=tokyonight&hide=c,html,css&v=999" />
 </div>
 
 ---
