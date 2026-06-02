@@ -27,11 +27,10 @@ My current focus is bridging algorithms and silicon flow on **Xilinx Zynq-7020**
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **HDL** | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-B02030?style=flat-square) |
+| **HDL** | ![Verilog](https://img.shields.io/badge/Verilog-B02030?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=flat-square) |
 | **Software** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **FPGA / Hardware** | ![Xilinx](https://img.shields.io/badge/Xilinx-Vivado%202025.2-red?style=flat-square) ![Zynq-7020](https://img.shields.io/badge/Zynq--7020-Arty%20Z7-blue?style=flat-square) ![AXI4](https://img.shields.io/badge/AXI4-Lite%2FFull-orange?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-RV32I-black?style=flat-square) |
-| **Simulation** | ![XSim](https://img.shields.io/badge/Xilinx-XSim-red?style=flat-square) ![Verilator](https://img.shields.io/badge/Verilator-OpenSource-009688?style=flat-square) ![Icarus](https://img.shields.io/badge/Icarus%20Verilog-FFC107?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+| **FPGA / Hardware** | ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-red?style=flat-square) ![Zynq-7020](https://img.shields.io/badge/Zynq--7020-Arty%20Z7-blue?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-Arch-black?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![XSim](https://img.shields.io/badge/Xilinx-XSim-red?style=flat-square) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
 
 ---
 
@@ -63,15 +62,6 @@ My current focus is bridging algorithms and silicon flow on **Xilinx Zynq-7020**
 > * Digital stopwatch with **10 ms precision** (`hh:mm:ss.xx` format), featuring pause/resume, manual time adjustment, and lap-time saving.
 > * **6 hierarchical modules**: clock divider (1 Hz / 2 Hz / 5 Hz / 1 kHz), time counter with blink mode, button debouncer, Hex-to-BCD converter, 12-digit 7-segment decoder, FSM-based LCD transfer controller.
 > * Custom **20×4 LCD driver** handling initialization sequences and data packing via parallel interface.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arilla26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arilla26&layout=compact&langs_count=8&theme=tokyonight&hide=html,css" />
-</div>
 
 ---
 
